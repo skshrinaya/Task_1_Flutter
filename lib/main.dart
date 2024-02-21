@@ -8,6 +8,7 @@ void main() {
       ),
      body: Image(
        image:AssetImage('asset/spiderman 28.jpg'),
+       alignment: Alignment.center,
      ),
 
     ),
